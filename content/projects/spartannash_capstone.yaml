@@ -1,0 +1,41 @@
+# ============================================================
+# content/projects/spartannash_capstone.yaml
+# ============================================================
+# Project generated from SandyLiam_Resume.docx.
+# ============================================================
+
+title: "SpartanNash Sentiment Analysis Capstone"
+
+short_summary: >
+  Worked with a four-intern team to develop a machine learning-driven
+  data ingestion pipeline for customer sentiment analysis and correlation
+  reporting. The pipeline processed more than 10,000 reviews per month
+  and supported dashboard reporting for district and store managers.
+
+tech_stack:
+  - Machine Learning
+  - Sentiment Analysis
+  - Data Ingestion
+  - Dashboarding
+  - Stakeholder Communication
+
+problem_statement: >
+  SpartanNash needed a more scalable way to ingest third-party customer
+  review data, analyze sentiment, and make feedback easier for district
+  and store managers to understand. Manual review of customer feedback
+  limited visibility into recurring themes and slowed reporting.
+
+approach: >
+  Collaborated with a team of four interns to build and deploy a pipeline
+  that ingested review data from a third-party contractor into the company
+  cloud. The team used machine learning techniques for sentiment analysis
+  and created reporting outputs that connected customer feedback to
+  actionable business context.
+
+results_impact: >
+  The project processed over 10,000 reviews monthly and created a dashboard
+  for district and store managers to visualize customer sentiment and
+  feedback. Regular communication with business users helped keep the
+  work aligned with business needs and stakeholder expectations.
+
+image_path: "img/placeholder_project_1.png"

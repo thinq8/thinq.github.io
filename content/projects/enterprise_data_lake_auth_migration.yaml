@@ -1,0 +1,42 @@
+# ============================================================
+# content/projects/enterprise_data_lake_auth_migration.yaml
+# ============================================================
+# Project generated from SandyLiam_Resume.docx.
+# ============================================================
+
+title: "Enterprise Data Lake Authentication Migration"
+
+short_summary: >
+  Designed and implemented an authentication migration from basic auth
+  to keypair authentication across an enterprise data lake. The work
+  improved security and access control while supporting production data
+  engineering workflows.
+
+tech_stack:
+  - Data Engineering
+  - ETL
+  - Snowflake
+  - Talend
+  - Keypair Authentication
+
+problem_statement: >
+  Enterprise data lake pipelines needed a more secure authentication
+  approach than basic authentication. The migration had to support existing
+  data workflows while improving access control across a broad data
+  engineering environment.
+
+approach: >
+  Collaborated with cross-functional teams and key stakeholders to design
+  and implement the migration from basic auth to keypair authentication.
+  The work required coordination across data engineering processes and
+  attention to how authentication changes affected enterprise pipeline
+  reliability.
+
+results_impact: >
+  The migration enhanced data security and access control across the
+  enterprise data lake. Related internship work also included deploying
+  ETL pipelines for automated data ingestion and using generative AI to
+  create a learning database based on company pipelines for fellow data
+  engineers.
+
+image_path: "img/placeholder_project_2.png"

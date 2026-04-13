@@ -1,0 +1,18 @@
+# ============================================================
+# content/liam_sandy.yaml
+# ============================================================
+# Student profile generated from SandyLiam_Resume.docx.
+# ============================================================
+
+name: "Liam Sandy"
+tagline: "Data Science Student | Aspiring Data Engineer or ML Engineer"
+
+about: |
+  I'm a Data Science student at Michigan State University focused on data engineering, machine learning, and practical analytics systems. My experience includes enterprise data lake work, authentication migration, ETL pipeline deployment, and customer data profile analysis.
+
+  Through internships with SpartanNash, I have worked with cross-functional teams to build and deploy data pipelines, improve data accessibility, and support business users with clearer data insights. I am especially interested in using Snowflake, Talend, Python, SQL, and machine learning tools to turn data into reliable systems and useful decisions.
+
+# Contact information
+email: "minerlemur@gmail.com"
+linkedin: "https://www.linkedin.com/in/liamsandy"
+github: "https://github.com/thinq8"
