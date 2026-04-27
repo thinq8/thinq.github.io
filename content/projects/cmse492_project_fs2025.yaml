@@ -1,0 +1,40 @@
+title: "Predicting League of Legends Outcomes"
+
+short_summary: >
+  Developed an applied machine-learning project to predict ten-minute
+  League of Legends match outcomes from ranked-match telemetry. The repo
+  combines reproducible preprocessing, exploratory analysis, engineered
+  features, and comparisons across baseline and nonlinear models.
+
+tech_stack:
+  - Python
+  - TensorFlow
+  - XGBoost
+  - pandas
+  - Jupyter Notebooks
+  - Feature Engineering
+
+problem_statement: >
+  Match-state data at the ten-minute mark captures early objective
+  control, economy, vision, and combat information, but it is not always
+  obvious which features matter most for predicting eventual outcomes.
+  The project goal was to build a clean experimental setup for comparing
+  predictive approaches on that structured telemetry.
+
+approach: >
+  I used a reproducible preprocessing pipeline to generate train-test
+  splits, summary artifacts, and engineered feature exports. From there,
+  the repo supports multiple modeling paths, including logistic
+  regression, neural networks, random forests, and gradient-boosted
+  trees, with supporting figures and metrics stored in version control.
+
+results_impact: >
+  The project demonstrates a full applied-ML workflow rather than a
+  one-off notebook: data loading, EDA, feature engineering, baseline
+  performance measurement, and model comparison. It highlights my
+  interest in building experiments that are inspectable and easy for
+  teammates or instructors to rerun.
+
+repo_url: "https://github.com/thinq8/cmse492_project_FS2025"
+notebook_url: "https://github.com/thinq8/cmse492_project_FS2025/blob/main/notebooks/modeling/xgboost_gradient_boosted_trees.ipynb"
+image_path: "img/placeholder_project_2.png"

@@ -1,0 +1,39 @@
+title: "SpartanNash Internship & Capstone"
+
+short_summary: >
+  Combined internship and capstone work at SpartanNash focused on data
+  engineering, automation, and analytics delivery. This work ranged from
+  enterprise authentication migration and ETL deployment to a
+  machine-learning-driven sentiment-analysis pipeline for business users.
+
+tech_stack:
+  - Snowflake
+  - Talend
+  - ETL
+  - Data Engineering
+  - Sentiment Analysis
+  - Stakeholder Communication
+
+problem_statement: >
+  Business and engineering teams needed more reliable data access,
+  cleaner ingestion workflows, and better ways to turn large volumes of
+  customer or operational data into usable insights. The challenge was
+  not only technical implementation, but also making the resulting work
+  understandable and useful to the people depending on it.
+
+approach: >
+  Across two internships and a capstone effort, I worked with
+  cross-functional teams on enterprise data-lake authentication
+  migration, automated ingestion pipelines, customer-data profile work,
+  and sentiment-analysis reporting. The work required balancing hands-on
+  implementation with communication, coordination, and feedback from
+  non-technical stakeholders.
+
+results_impact: >
+  This experience gave me direct exposure to production-style data work:
+  improving security and access control, reducing manual workload
+  through ETL automation, and supporting dashboard-based reporting for
+  managers. It also strengthened how I think about data projects as
+  systems that need both technical reliability and business clarity.
+
+image_path: "img/placeholder_project_1.png"

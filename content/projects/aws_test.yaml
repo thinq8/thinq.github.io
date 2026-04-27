@@ -1,0 +1,39 @@
+title: "AWS Test: NYC 311 Service Request Analysis"
+
+short_summary: >
+  Built an AWS-based workflow for analyzing a large sample of NYC 311
+  service requests using S3, Athena, and SageMaker. The project focuses
+  on reproducible cloud structure, documented SQL analysis, and
+  preparation for later modeling work on complaint-resolution patterns.
+
+tech_stack:
+  - AWS S3
+  - Athena
+  - SageMaker
+  - SQL
+  - Python
+  - Data Documentation
+
+problem_statement: >
+  Cloud analytics work can become difficult to review when data paths,
+  table definitions, and analysis questions are only captured in class
+  notebooks. This project was designed to turn that workflow into a
+  documented public repository with clear dataset context, analysis
+  questions, and Athena-ready queries.
+
+approach: >
+  I organized the project around the full workflow: documenting the
+  dataset, defining the S3 and Athena structure, writing stakeholder-
+  oriented SQL, and outlining a simple modeling export for SageMaker.
+  The repository now includes data notes, query files, sanity checks,
+  and a concise stakeholder-summary draft.
+
+results_impact: >
+  The strongest outcome here is the structure itself: the repo now reads
+  as a cloud-analysis project instead of a loose set of class exercises.
+  It shows how I think about traceability, query design, and preparing
+  raw service-request data for both reporting and downstream modeling.
+
+repo_url: "https://github.com/thinq8/AWS_Test"
+notebook_url: "https://github.com/thinq8/AWS_Test/blob/main/day26_inclass_assignment-STUDENT.ipynb"
+image_path: "img/placeholder_project_1.png"

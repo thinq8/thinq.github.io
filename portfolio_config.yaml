@@ -14,8 +14,10 @@ student_file: content/liam_sandy.yaml
 # List the YAML files (inside content/projects/) you want shown.
 # Remove example projects and add your own once you're ready.
 projects:
-  - content/projects/spartannash_capstone.yaml
-  - content/projects/enterprise_data_lake_auth_migration.yaml
+  - content/projects/civil_rights_summarized_ai.yaml
+  - content/projects/aws_test.yaml
+  - content/projects/cmse492_project_fs2025.yaml
+  - content/projects/spartannash_internship_capstone.yaml
 
 # --- Theme ---
 # Built-in options: "light", "dark", "msu-light", "msu-dark"
